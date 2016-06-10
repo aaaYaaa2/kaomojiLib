@@ -1,0 +1,61 @@
+{
+	"exciting hands":{
+		"keywords":["exciting", "circle hands", "happy", "joy"],
+		"icon": "o(≧∇≦o)",
+		"category": "emotion"
+	},
+
+	"exciting right":{
+		"keywords":["exciting", "right", "hands up", "happy"],
+		"icon": "(/^▽^)/",
+		"category": "emotion"
+	},
+
+	"loving eyes":{
+		"keywords":["love", "like", "loving eyes", "smile"],
+		"icon": "(✿ ♥‿♥)", 
+		"category": "emotion"
+	},
+
+	"love left":{
+		"keywords":["love", "like", "love left", "smile"],
+		"icon": "♥(ˆ⌣ˆԅ)",
+		"category": "emotion"
+	},
+
+	"licking lips":{
+		"keywords":[ "delicious", "yummy", "food", "eat" ],
+		"icon": "(*´ڡ`●)",
+		"category": "emotion"
+	},
+
+	"pain":{
+		"keywords": [ "painful", "injuried", "sick" ],
+		"icon": "(っ- ‸ – ς)",
+		"category": "emotion"
+	},
+
+	"sad":{
+		"keywords": ["cry", "depressed", "unhappy"],
+		"icon": "੨( ･᷄ ︵･᷅ )ｼ",
+		"category": "emotion"
+	},
+
+	"tears":{
+		"keywords": ["cry", "vertical tears", "failed", "unhappy"], 
+		"icon": "꒰๑•̥﹏•̥๑꒱",
+		"category": "emotion"
+	},
+
+	"biy eyes cat":{
+		"keywords": ["cat", "cute", "pet"],
+		"icon": "(=ↀωↀ=)✧",
+		"category": "animal"
+	},
+
+	"angry cat": {
+		"keywords": ["cat", "cute", "pet", "angry"],
+		"icon": "(ↀДↀ)⁼³₌₃",
+		"category": "animal"
+	},
+}

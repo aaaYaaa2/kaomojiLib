@@ -1,0 +1,16 @@
+{
+  "name": "kaomoji",
+  "version": "0.0.0",
+  "description": "a kaomoji library, providing kaomoji and corresponding keywords, categories",
+  "main": "initial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kaomoji",
+    "library",
+    "json"
+  ],
+  "author": "cheese_pizza <xcicada824@gmail.com> (https://github.com/Yuuki221)",
+  "license": "ISC"
+}
