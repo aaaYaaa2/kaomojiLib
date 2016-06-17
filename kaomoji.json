@@ -1,41 +1,41 @@
 {
-	"exciting hands":{
+	"exciting":{
 		"keywords":["exciting", "circle hands", "happy", "joy"],
 		"icon": "o(≧∇≦o)",
 		"category": "emotion"
 	},
 
-	"exciting right":{
+	"exciting_right":{
 		"keywords":["exciting", "right", "hands up", "happy"],
 		"icon": "(/^▽^)/",
 		"category": "emotion"
 	},
 
-	"loving eyes":{
+	"love_eyes":{
 		"keywords":["love", "like", "loving eyes", "smile"],
 		"icon": "(✿ ♥‿♥)", 
 		"category": "emotion"
 	},
 
-	"love left":{
+	"love_left":{
 		"keywords":["love", "like", "love left", "smile"],
 		"icon": "♥(ˆ⌣ˆԅ)",
 		"category": "emotion"
 	},
 
-	"licking lips":{
+	"delicious":{
 		"keywords":[ "delicious", "yummy", "food", "eat" ],
 		"icon": "(*´ڡ`●)",
 		"category": "emotion"
 	},
 
-	"pain":{
+	"sad":{
 		"keywords": [ "painful", "injuried", "sick" ],
 		"icon": "(っ- ‸ – ς)",
 		"category": "emotion"
 	},
 
-	"sad":{
+	"crying":{
 		"keywords": ["cry", "depressed", "unhappy"],
 		"icon": "੨( ･᷄ ︵･᷅ )ｼ",
 		"category": "emotion"
@@ -47,15 +47,195 @@
 		"category": "emotion"
 	},
 
-	"biy eyes cat":{
+	"cat_star":{
 		"keywords": ["cat", "cute", "pet"],
 		"icon": "(=ↀωↀ=)✧",
 		"category": "animal"
 	},
 
-	"angry cat": {
+	"cat_shock":{
 		"keywords": ["cat", "cute", "pet", "angry"],
 		"icon": "(ↀДↀ)⁼³₌₃",
 		"category": "animal"
+	}, 
+
+	"smile_with_heart":{
+		"keywords": ["smile", "joy", "heart", "love", "right heart"],
+		"icon": "(*˘︶˘*).｡.:*♡",
+		"category": "emotion"
 	},
+
+	"happy_love":{
+		"keywords": ["smile", "happy", "joy", "right heart"],
+		"icon": "(≧◡≦) ♡",
+		"category": "emotion"
+	}, 
+
+	"kiss_love":{
+		"keywords": ["kiss", "heart", "love", "affection", "chu"],
+		"icon": "σ(≧ε≦σ) ♡",
+		"category": "emotion"
+	},
+
+	"kiss_star":{
+		"keywords": ["kiss", "chu", "love", "affection", "shy"],
+		"icon": "☆⌒ヽ(*'､^*)chu",
+		"category": "emotion"
+	},
+
+	"shy_blush":{
+		"keywords":["shy", "blush", "love"],
+		"icon": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+		"category": "emotion"
+	},
+
+	"sympathy":{
+		"keywords":["cry", "kindness", "affinity", "compassion"],
+		"icon": "(ノ_<。)ヾ(´▽｀)",
+		"category": "emotion"
+	}, 
+
+	"square_mouth_afraid":{
+		"keywords":["afraid", "shocked", "fear", "hands up"],
+		"icon": "＼(º □ º l|l)/",
+		"category": "emotion"
+	},
+
+	"hands_up_indifference":{
+		"keywords":["indifference", "apathy", "insensitivity", "disdain"],
+		"icon": "┐(￣∀￣)┌",
+		"category": "emotion"
+	},
+
+	"confusion_@eyes":{
+		"keywords":["donno", "confused", "doubt", "question"],
+		"icon": "(＠_＠)",
+		"category": "emotion"
+	}, 
+
+	"surprise_round_eyes":{
+		"keywords":["surprised", "shocked", "curious"],
+		"icon": "∑(O_O;)",
+		"category":"emotion"
+	},
+
+	"hands_up_greeting":{
+		"keywords":["greeting", "hello", "morning", "what's up", "hand up", "smile", "cat mouth"],
+		"icon": "(⌒ω⌒)ﾉ",
+		"category": "emotion"
+	},
+
+	"winking_star":{
+		"keywords":["winking", "star", "cute", "trick", "joke"],
+		"icon": "(^_<)〜☆",
+		"category": "emotion"
+	},
+
+	"apologize":{
+		"keywords":["sorry", "I am wrong", "confess"],
+		"icon": "m(_ _;m)",
+		"category": "emotion"
+	},
+
+	"nosebleeding":{
+		"keywords":["shocked", "nose", "blood", "sexy", "beautiful"],
+		"icon": "(＾་།＾)",
+		"category": "emotion"
+	},
+
+	"writing_quietly":{
+		"keywords":["writing", "study", "essay", "working hard"],
+		"icon": "__φ(．．)",
+		"category": "behavior"
+	},
+
+	"running_fast":{
+		"keywords":["run", "escape", "right"],
+		"icon": "C= C= C= C=┌(｀ー´)┘",
+		"category":"behavior"
+	},
+
+	"sleepy":{
+		"keywords": ["sleeping", "tired", "exhausted", "slobber"],
+		"icon": "(￣ρ￣)..zzZZ",
+		"category":"animal"
+	},
+
+	"nya_cat":{
+		"keywords": ["nya", "cat", "pet"],
+		"icon": "( =ω=)..nyaa",
+		"category":"animal"
+	},
+
+	"cute_polar_bear":{
+		"keywords":["bear", "polar bear", "smile bear"],
+		"icon": "ʕ •ᴥ• ʔ",
+		"category": "animal"
+	},
+
+	"normal_dog_ear_down":{
+		"keywords":["dog", "dog ear down"],
+		"icon":"∪･ω･∪",
+		"category": "animal"
+	},
+
+	"happy_rabbit":{
+		"keywords":["rabbit", "exciting", "joy"],
+		"icon":"／(≧ x ≦)＼",
+		"category":"animal"
+	},
+
+	"normal_pig":{
+		"keywords":["pig", "cute", "pork"],
+		"icon": "｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡",
+		"category":"animal"
+	},
+
+	"big_black_eyes_bird":{
+		"keywords":["bird", "black round eyes", "fly"],
+		"icon": "(◉Θ◉)",
+		"category":"animal"
+	}, 
+
+	"swimming_left_fish":{
+		"keywords":["fish", "swim", "water"],
+		"icon":"(°)#))<<",
+		"category": "animal"
+	},
+
+	"friends_together":{
+		"keywords":["friends", "hangout", "play", "party"],
+		"icon": "٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶",
+		"category": "people"
+	},
+
+	"friends_hand_in_hand":{
+		"keywords":["friends", "hangout", "cheer", "together", "happy", "smile"],
+		"icon":"ヽ(≧◡≦)八(o^ ^o)ノ",
+		"category": "people"
+	},
+
+	"fight_enemies":{
+		"keywords":["quarrel", "punch_in_face", "angry", "beat", "unhappy"],
+		"icon": "(｀⌒*)O-(｀⌒´Q)",
+		"category": "people"
+	},
+
+	"shot_you":{
+		"keywords":["shooting","weapon", "fight", "war", "gun"],
+		"icon": "(ﾒ￣▽￣)︻┳═一",
+		"category": "behavior"
+	},
+
+	"magic_flower":{
+		"keywords":["majic", "give_you", "beautiful"],
+		"icon": "(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿",
+		"category": "behavior"
+	},
+
+	"majic_star":{
+		"keywords":["majic", "star", "shooting", "biu-biu"],
+		"icon": "(ﾉ≧∀≦)ﾉ ‥…━━━★",
+		"category": "behavior"
+	}
 }
