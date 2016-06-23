@@ -1,5 +1,5 @@
 {
-  "name": "kaomojilib",
+  "name": "kaomojilibTest",
   "version": "0.0.2",
   "description": "a kaomoji library, providing kaomoji and corresponding keywords, categories",
   "main": "building.js",
