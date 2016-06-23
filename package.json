@@ -1,6 +1,6 @@
 {
   "name": "kaomojilib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a kaomoji library, providing kaomoji and corresponding keywords, categories",
   "main": "building.js",
   "files":[
@@ -25,6 +25,6 @@
   "author": "cheese_pizza <xcicada824@gmail.com> (https://github.com/Yuuki221)",
   "license": "MIT",
   "devDependencies":{
-    "JSONStream": "^1.1.2",
+    "JSONStream": "^1.1.2"
   }
 }
