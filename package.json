@@ -1,19 +1,17 @@
 {
-  "name": "kaomojilibTest",
-  "version": "0.0.2",
+  "name": "kaomojilib",
+  "version": "1.0.0",
   "description": "a kaomoji library, providing kaomoji and corresponding keywords, categories",
-  "main": "building.js",
-  "files":[
+  "main": "index.js",
+  "files": [
     "kaomoji.json",
-    "initial.js",
-    "package.json"
+    "package.json",
+    "index.js"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node building.js",
-    "prepublish": "npm run build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/Yuuki221/kaomojiLib"
   },
@@ -24,7 +22,9 @@
   ],
   "author": "cheese_pizza <xcicada824@gmail.com> (https://github.com/Yuuki221)",
   "license": "MIT",
-  "dependencies":{
-    "JSONStream": "~1.1.2"
+  "devDependencies": {
+    "JSONStream": "^1.1.2"
+  },
+  "dependencies": {
   }
 }
