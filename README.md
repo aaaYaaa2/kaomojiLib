@@ -1,6 +1,6 @@
 <h1>kaomojilib 🎐</h1>
-<p> A concise and useful Koamoji (Janpanses Emotion Icon) Library. </p>
-<p> Contribute to the project on github : <a href="https://github.com/Yuuki221/kaomojiLib">KaomojiLib </a> to add more kaomojis that is missing from the library !
+<p> A concise and useful Koamoji (Janpanses Emotion Icon) Library. Tested using Mocha ☕️</p>
+<p> Contribute to the project on github : <a href="https://github.com/Yuuki221/kaomojiLib">KaomojiLib </a> to add more kaomojis that are missing from the library !
 </p>
 
 <h2>Install</h2>
