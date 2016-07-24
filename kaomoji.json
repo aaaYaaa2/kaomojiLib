@@ -237,5 +237,192 @@
 		"keywords":["majic", "star", "shooting", "biu-biu"],
 		"icon": "(ﾉ≧∀≦)ﾉ ‥…━━━★",
 		"category": "behavior"
+	},
+
+	"food":{
+		"keywords":["delicious", "hungry", "yum", "salivate"],
+		"icon": "Fooooood…ԅ(¯﹃¯ԅ)",
+		"category": "behavior"
+	},
+
+	"singing":{
+		"keywords":["music", "sing", "party", "relax"],
+		"icon": "((ヽ(๑╹◡╹๑)ﾉ))♬",
+		"category": "behavior"
+	},
+
+	"cheering":{
+		"keywords":["happy", "cheer", "joy", "hands up"],
+		"icon": "＼＼\(۶•̀ᴗ•́)۶//／／",
+		"category": "behavior"
+	},
+
+	"let's_go":{
+		"keywords":["go", "hangout", "exciting"],
+		"icon": "─=≡Σ((( つ•̀ω•́)つLET’SGO!",
+		"category": "behavior"
+	},
+
+	"poking":{
+		"keywords":["poke", "heyhey"],
+		"icon": "（￢з￢）σ",
+		"category": "behavior"
+	},
+
+	"punch":{
+		"keywords":["punch in face", "punch you"],
+		"icon":"(o￣∇￣)=◯)`ν゜)",
+		"category":"behavior"
+	},
+
+	"good_morning":{
+		"keywords": ["yawn", "morning", "greeting"],
+		"icon": "(*´0)ゞ*yawn* morning~",
+		"category":"behavior"
+	},
+
+	"rise_and_shine":{
+		"keywords": ["morning", "get up", "rise", "shine"],
+		"icon": "(*^｡^*)Rise (*^o^*)And ＼(*^0^*)／Shineｰ!!",
+		"category": "behavior"
+	},
+
+	"good_night":{
+		"keywords":["good night", "night", "dream"],
+		"icon": "Good(*´ -`)(´- `*)Night",
+		"category": "behavior"
+	},
+
+	"sleeping":{
+		"keywords":["good night", "night", "sleepy"],
+		"icon": "(´-ω-)´_ _)´-ω-)´_ _)zZZ",
+		"category": "behavior"
+	},
+
+	"hello":{
+		"keywords":["hi", "what's up", "hey"],
+		"icon": "(●っゝω・)っ～☆HELLO☆",
+		"category": "behavior"
+	},
+
+	"thank_you":{
+		"keywords":["thanks", "thx", "gratitude"],
+		"icon": "(●っゝω・)っ～☆HELLO☆",
+		"category": "behavior"
+	},
+
+	"thank_kiss":{
+		"keywords":["kiss", "chu", "thanks", "thank you", "gratitude"],
+		"icon": "Thank CHU♪(‘εﾟ人)*.+゜",
+		"category": "behavior"
+	},
+
+	"thank_you_so_much":{
+		"keywords":["thanks", "thank you", "thanks a lot"],
+		"icon": "Thank you…(´人｀●)SOOOOO━━＼(´∀｀●)／━━MUCH!!",
+		"category": "behavior"
+	},
+
+	"sniff":{
+		"keywords":["sad", "unhappy", "sniff", "cry", "depressed", "feeling down"],
+		"icon": "(´＿｀。) *sniff*",
+		"category": "emotion"
+	},
+
+	"hug_for_you":{
+		"keywords":["hug", "hug you", "sweet", "comfort", "love"],
+		"icon": "HUG FOR YOU~╰(*´︶`*)╯(´・ω・｀)",
+		"category": "behavior"
+	},
+
+	"simple_dog":{
+		"keywords":["dog", "animal", "bark", "pet"],
+		"icon": "▼・ᴥ・▼",
+		"category": "animal"
+	},
+
+	"simple_cat":{
+		"keywords":["cat", "animal", "nya", "meow", "simple", "pet"],
+		"icon": "=^._.^= ∫",
+		"category": "animal"
+	},
+
+	"flower_cat":{
+		"keywords":["cat", "flower", "nya", "meow", "pet", "cute"],
+		"icon": " /ᐠ｡ꞈ｡ᐟ✿\ ",
+		"category": "animal"
+	},
+
+	"table_flip_angry":{
+		"keywords": ["table flip", "angry", "what?!", "shocked"],
+		"icon": "(┛✧Д✧))┛彡┻━┻",
+		"category": "behavior"
+	},
+
+	"set_table":{
+		"keywords":["table", "there we go", "happy", "party", "prepare"],
+		"icon": "┣ﾍ(^▽^ﾍ)Ξ(ﾟ▽ﾟ*)ﾉ┳━┳ There we go~♪",
+		"category":"behavior"
+	},
+
+	"thumbs_down":{
+		"keywords": ["thumb_down", "angry", "unhappy"],
+		"icon": "p(●｀□´●)q",
+		"category": "behavior"
+	},
+
+	"blushing_flower_girl":{
+		"keywords": ["blushing", "girl", "flower", "shy", "cute"],
+		"icon": "(///∇///✿)",
+		"category": "behavior"
+	},
+
+	"merry_x'mas":{
+		"keywords":["merry christmas", "christmas time", "christmas"],
+		"icon": "†+☆;:*:;☆。:.†Merry X’mas゜†.:。☆;:*:;☆+†",
+		"category": "holiday"
+	},
+
+	"happy_Xmas":{
+		"keywords":["merry christmas", "christmas time", "christmas", "Xmas"],
+		"icon": "o＜(*’v`p)p☆+*:;;;:*+☆ Happy Xmas ☆+*:;;;:*+☆q(q’v`*)＞o",
+		"category": "holiday"
+	},
+
+	"cute_flower_bear":{
+		"keywords": ["bear", "animal", "cute", "pet", "flower"],
+		"icon": "(✿◕㉨◕)",
+		"category": "animal"
+	},
+
+	"love_letter":{
+		"keywords":["love", "writing", "valentine", "I love you"],
+		"icon": "I Love You..〆(・∀・＊)",
+		"category": "holiday"
+	},
+
+	"chocolate_valentine":{
+		"keywords":["love", "chocolate", "valentine", "I love you"],
+		"icon": "Chocolate!( ・∀・)っ■",
+		"category": "food"
+	},
+
+	"gross_creepy":{
+		"keywords":["gross", "creepy", "wtf"],
+		"icon": "༼;´༎ຶ ۝ ༎ຶ༽",
+		"category": "emotion"
+	},
+
+	"awkward_cross_eyes":{
+		"keywords": ["awkward", "funny", "weird", "idiot"],
+		"icon": "(´◑ω◐`)",
+		"category": "behavior"
+	},
+
+	"jailed_smile":{
+		"keywords": ["jailed", "shut in"],
+		"icon": "||Φ|(|ﾟ|∀|ﾟ|)|Φ||",
+		"category": "behavior"
 	}
+
 }
