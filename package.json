@@ -1,6 +1,6 @@
 {
   "name": "kaomojilib",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a kaomoji library, providing kaomoji and corresponding keywords, categories",
   "main": "index.js",
   "files": [
