@@ -20,12 +20,11 @@
     "library",
     "search"
   ],
-  "author": "cheese_pizza <xcicada824@gmail.com> (https://github.com/Yuuki221)",
+  "author": "icyCake <xcicada824@gmail.com> (https://github.com/Yuuki221)",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "JSONStream": "^1.1.2",
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
-  },
-  "dependencies": {}
+  }
 }
