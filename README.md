@@ -3,7 +3,10 @@
 [![npm](https://img.shields.io/npm/dt/kaomojilib.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/kaomojilib)
 [![%e2%9d%a4](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](https://www.npmjs.com/package/kaomojilib)
 
-<p> A concise and useful Koamoji (Janpanses Emotion Icon) Library. Tested using Mocha ☕️</p>
+> A concise and useful Kaomoji (Japanese Emotion Icon) Library. 
+> Express Yourself Today ~ ((ヽ(๑╹◡╹๑)ﾉ))♬
+
+<p>Tested using Mocha ☕️</p>
 <p> Contribute to the project on github : <a href="https://github.com/Yuuki221/kaomojiLib">KaomojiLib </a> to add more kaomojis that are missing from the library !
 </p>
 
